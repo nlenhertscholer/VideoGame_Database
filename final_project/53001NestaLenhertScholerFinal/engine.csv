@@ -1,0 +1,534 @@
+id;name
+2;Frostbite
+3;Source
+4;GoldSrc
+5;NeL
+6;Unreal Engine
+7;Scimitar
+9;Anvil
+10;AnvilNext
+12;Telltale Tool
+13;Unity
+16;Disrupt
+17;Havok Physics
+18;4A Engine
+19;Snowdrop
+21;TheEngine
+22;UbiArt Framework
+23;Serious Engine 4
+24;REDengine
+25;CryEngine
+26;RAGE
+27;Dark Alliance Engine
+28;Infinity Engine
+29;Fox Engine
+30;Angelica III
+32;Retox
+33;Forgelight Engine
+34;GlassBox
+35;Northlight Engine
+36;Asura
+37;Quest
+38;Diesel
+39;SCI1.1
+40;Titan 2.0
+42;SpeedTree
+43;Dark Engine
+44;Velocity Engine
+45;Vision
+46;Crystal Engine
+47;id Tech 5
+48;id Tech 4
+49;Pyrogenesis
+50;Starbreeze Engine
+51;3Space
+53;SCUMM
+54;Gamebryo
+55;Euphoria Engine
+56;id Tech 3
+58;Ignite Engine
+59;Impact Engine
+60;Prism3D
+61;LithTech
+62;Torque Game Engine
+64;Adobe Flash Player
+65;Torque 2D
+66;BigWorld
+67;MAX-FX
+68;Aurora Engine
+69;Build
+70;The Sims 3 Engine
+71;Z-machine
+72;Odyssey
+73;Babel engine
+74;X-ray Engine
+75;Eclipse Engine
+76;Jade
+77;AGOS
+78;Chrome Engine
+79;GameMaker: Studio
+80;HydroEngine
+82;MonkeyX
+83;TDRPG Engine
+85;Gex engine
+86;IceWave
+87;HeroEngine
+88;Genome
+89;PhysX
+90;Avalanche engine
+91;PathEngine
+92;XnGine
+95;Creation Engine
+96;SAGA
+97;id Tech 2
+98;Neon Engine
+99;Ego Engine
+100;Nod Engine
+101;Virtual Theatre
+102;Virtools Engine
+103;Microsoft XNA
+104;MonoGame
+105;Essence Engine
+106;ROMU
+107;Firaxis LORE
+108;Amityville
+109;Horizon Engine
+110;Labyrinth Engine
+111;Groovie
+112;FlatRedBall
+113;Twilight
+114;Crystal Tools
+115;Video Reality
+116;id Tech 1
+117;Quantic Dream Engine
+118;Dunia Engine
+119;Glacier
+120;Enfusion
+121;Refractor Engine
+122;Chameleon
+123;IW Engine
+125;Voxel Space
+126;Kinetica
+128;BitSquid
+129;Emmersion
+130;SAGE
+131;W3D
+132;Voxel Plus
+133;Terrabuilder
+134;ZenGin
+135;Geo-Mod
+136;Popcap Games Framework
+137;SlaveDriver
+138;Jedi
+139;Sith
+140;Ecstasy Engine
+141;PainEngine
+142;AGI
+143;Sierra's Creative Interpreter
+144;iMUSE
+145;GrimE
+146;Beard+Razor
+147;YETI
+148;Voxlap
+150;Onyx Engine
+152;Saber3D
+153;LyN
+154;Vengeance Engine
+155;INSANE
+157;GAIA
+158;Xed
+159;Playground SDK
+160;Autodesk
+161;STEAM engine
+162;Vampire
+163;CloakNT3
+165;Gold Box
+166;enhanced Adventure Island
+167;Cube Engine
+168;Angelica 3D
+169;Eparch 2D
+170;Objectnaut
+171;Flixel
+173;OGRE
+174;PhyreEngine
+175;Dark Side
+176;Earth-4
+177;Nebula Device
+178;HPL
+180;Marmoset
+181;Kapow
+182;Enigma engine
+184;Killzone Shadow Fall engine
+185;Game World Builder
+186;OEngine
+187;Alamo
+188;Snowblind engine
+189;AtmosFear
+190;Omen Engine
+191;VR-6
+192;MassTech
+193;STORM Engine
+194;isiMotor2
+195;Dawn Engine
+196;FXEngine
+197;Enforce
+199;Macromedia Director 2.0
+200;Evolution
+201;RuneTek
+203;UE4 - duplicate
+204;Forest Hale’s Darkplaces engine
+205;Darkplaces engine
+207;Genie Engine
+208;Zero
+209;Godfather engine
+210;Visceral Engine
+211;Dragonfly
+212;Luminous Studio
+213;Java
+214;COBRA
+215;ASKA
+216;Real Live
+217;Lightweight Java Game Library
+219;NScripter
+220;Vicious Engine
+222;True3D
+223;Beautiful Voxel
+224;X3 Reality
+225;Phoenix Engine (Relic)
+226;X Engine
+227;GEM
+228;Prometheus In-Game Engine
+229;Moai
+230;Gepard 3D engine
+231;SigE
+232;0gf3. gine
+233;Virtual Dream
+234;TW Engine 3
+237;The Madness Engine
+238;Sprint
+239;Irrlicht
+241;Dragon Co's engine
+242;Super Star Wars
+243;A-Life
+244;Vsim
+245;Europa
+246;Wolfenstein 3D
+247;SurRender 3D
+248;StarLancer Engine
+249;Forsaken World Engine
+250;Beelzebub
+251;Fighter Maker
+252;ZEN
+253;Unigine
+254;AGDS (Advanced Graphic Development System)
+255;Divinity Engine
+256;Siglus
+257;BASIC
+258;Panta Rhei
+259;Heroic Driving Engine
+260;Octane Engine
+261;Soft Engine
+262;Alchemy
+263;Sparta 3D
+264;Traktor
+265;isiMotor
+266;Virtual World Inventor
+267;rUGP
+268;c#
+269;Freescape
+270;Cinematique
+271;XNA Game Studio
+272;KiriKiri
+273;Shadow Knights
+274;AbbeyCore
+275;The Banner Saga Engine
+276;Klik & Play
+278;The Sims 2 Engine
+281;Phoenix VR
+282;RENA
+283;Ice-Peak Engine
+284;Windows Animation Package 32
+285;Spring
+287;EAGL
+290;Gouache Engine
+291;CANVAS Engine
+292;VRAGE
+293;jMonkeyEngine
+294;Serious Engine 3.5
+295;GameZ
+296;Clausewitz Engine
+297;Crystal Space
+298;PHP
+299;MySQL
+301;CSS
+302;JavaScript
+303;AJAX
+304;Roblox Renduring Engine
+305;RPG Maker
+307;Hammerhead
+308;Cryengine 2
+309;Phoenix Engine (Wolfire)
+311;Iron Engine
+312;Torque 3D
+313;Beam Next Generation
+314;Dagor Engine
+315;FAME Tech
+317;EDuke 32
+318;Silk Engine
+319;Cougar Adventure Engine
+320;Gamebook Adventures Engine
+321;Trinity Vision Engine
+323;pc
+324;mobile
+325;Bluepoint Engine
+326;Quantum3
+327;Infernal Engine
+328;Nocturne Engine
+329;Multimedia Applications Development Environment
+331;Nitrous
+332;Atrophy
+333;Horizon
+335;Black Hawk engine
+336;Bomberman Engine
+338;Z-Engine
+339;The Eight-Bit Universal Role Playing Engine
+342;MEGA Engine
+343;Box2D
+344;Pygame
+345;Open Dynamics Engine
+346;Road Hog Engine
+349;Orochi
+350;Taito Type X
+351;Unreal Engine 3
+352;Black Sun Engine
+353;BRender
+354;RE Engine
+355;Titanium
+356;Turbulenz Engine
+357;Sonic Worlds
+358;Blitz3D
+359;BlitzMax
+360;SKALD
+361;Top Hat Engine
+362;Foundation Engine
+363;Film Window
+364;Argon
+366;Stingray Engine
+367;Photex
+368;Dx Studio
+370;Spritekit
+371;Gideros
+372;3D Game Studio
+374;SGE Game Engine
+375;Abyss
+376;Adventure Maker
+377;LASSIE engine
+378;Lassie Shepherd
+379;Sahara Engine (custom built)
+380;C++
+381;Valhalla
+382;Phaser
+383;Sparkle Engine
+384;CharLib
+385;Adventure Creator
+386;Whale 2
+387;Praxis
+388;download
+389;Pixi
+390;Alan Wake engine
+392;001
+393;Sephius Engine
+395;paprastas
+396;BattleCore
+397;Faktum Engine
+398;Chess Engine: The King
+399;Qt
+401;Numbat Engine
+403;T-REX Sandbox
+404;Unity 4
+405;Tease2D
+406;Kapow Systems 3D
+407;Flashpunk
+408;Un
+409;GameSalad
+412;Decima
+413;buildbox
+415;Internal Piranha Byte's Engine
+416;Evolution Engine
+417;NVLMaker
+418;Mercury Steam Engine
+419;Buildbox
+420;stencyl
+421;Amazon Lumberyard
+422;Intelligent Stupidity
+423;wpf
+424;Homemade
+425;lucha
+426;pyglet
+427;Asura engine
+428;Sigma Engine
+429;AngularJs
+431;kp
+432;Phoesion GE
+433;In House Engine
+434;Novelty
+435;Lair Engine
+436;DreamWorld
+437;BANG!
+438;Real Virtuality 3
+439;Unreal Engine 4
+441;ChoiceScript
+442;Shark 3D
+443;fps creator classic
+444;Leadwerks
+445;RV4
+446;Icarus Platform
+447;PINA
+449;Turbine
+450;Dulst
+451;Presto Studios
+452;Saber 3D engine
+453;Rataj's Browser Game Engine
+454;ArenaNet Guild Wars
+455;Orx
+457;Spellwrath (Custom Engine)
+458;K2 Engine
+459;buidlbox
+460;Stratagus
+461;Atari System 2
+463;super fx
+464;Visual Studio
+465;Nvidia PhysX
+466;GH Engine
+467;BTZ
+469;React Native
+470;GameGuru
+471;Sega Model 2
+472;ENIN Engine
+473;Sketcher Engine
+474;Brigitte
+475;Aspyr
+476;OpenFL
+477;D3D
+478;a000ff
+479;Black Desert Engine
+480;XIGNCODE3
+481;Real Virtuality 4
+482;CryEngine 3
+483;Intersect
+484;AZ (Arika Engine)
+485;The Illusion Engine
+486;FLEDGE Engine
+487;Turbine G3
+488;PC
+490;Bedrock Engine
+491;Frostbite 3
+492;StoryForge
+493;PixiJS
+494;Falling Everything Engine
+497;Hedgehog Engine
+498;DS2
+499;NightShade Engine
+500;Eclipse
+501;Silverback Engine
+502;Autodesk Beast
+503;Simplygon
+504;Disruptor Engine
+505;Spenefett
+506;42
+508;Alternativa Engine
+509;Unity 2017
+510;Super Mario Bros. X
+511;Genesis3D
+512;Taito FX-1
+513;Firebird Engine
+514;Orion Engine
+515;Ronin
+516;Krome Studios Engine
+518;Pinball 2000
+519;Offset Engine
+520;love2d
+521;Blukpast (homebrew)
+522;IRISZOOM
+523;Orochi 3
+524;createjs
+525;SolidEngine
+526;zandronum
+528;Glacier 2
+529;Unity 5
+530;BackboneJS
+531;KUBOTA/CATERPILLER
+532;GameMaker Studio 2
+533;SCGI
+534;SCI0
+535;SCI1
+537;Veronica Engine
+538;SuperScroller
+539;C4 Engine
+540;War3
+541;DarkBASIC Pro
+542;Bright Light Halogen
+543;A.L.I.V.E.
+544;NoviceX
+545;Duplicate 669
+546;AGS
+547;TW Engine 1
+548;TW Engine 2
+549;Spartan: Total Warrior Engine
+550;Flash CS6
+552;Invictus SCX
+553;"Custom Engine ""VantEdit"""
+554;Wolfenstein 3D Engine
+555;Distortion Tools
+557;Source 2
+559;GameSparks
+560;4EVOLVE: Traxor Engine
+561;Doom Legacy
+562;AtomicEngine
+563;Ripp3d
+564;DarkEngine
+566;web gl
+567;Insomniac Engine v.4.0
+568;DoomRPG
+569;Wolfenstein RPG
+570;Visual Novel Maker
+571;broww
+572;GlyphX
+574;Apex
+576;Slipspace Engine
+578;Liquid Engine
+580;AEGIS
+581;Granny 3D
+583;OWI Core
+584;PTK Toolkit
+585;VERGE
+586;Spiller
+587;EGO Engine 4.0
+589;Macromedia Director
+591;SceneKit
+592;SRPG Studio
+593;Allegro
+594;flash
+595;FNA
+596;FAudio
+597;Mario Builder
+598;Sega System 16
+599;Geo-Mod 2.0
+600;WangReal Engine
+601;Unity 2018
+602;StageMechanic
+604;12
+605;Panda3D
+606;OpenMW
+608;Symbian
+609;Pie in the Sky
+610;Heaps.io
+612;Quicksilver X
+613;Hiber
+614;Tyranobuilder Visual Novel Studio
+615;Sensible Soccer
+617;Yuna Engine
+681;KT Engine
+686;LSSDK
+695;KEX
+741;Spark Casual Engine

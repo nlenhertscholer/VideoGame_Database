@@ -1,0 +1,163 @@
+id;name;abbreviation;category;generation
+156;Thomson MO5;;6;
+160;Nintendo eShop;;3;
+74;Windows Phone;Win Phone;4;
+123;WonderSwan Color;;5;5
+163;SteamVR;Steam VR;;
+44;Tapwave Zodiac;zod;5;
+169;Xbox Project Scarlett;;1;
+68;ColecoVision;colecovision;1;2
+239;Blu-ray Player;;1;
+236;Exidy Sorcerer;;6;
+3;Linux;Linux;4;
+6;PC (Microsoft Windows);PC;4;
+7;PlayStation;PS1;1;5
+8;PlayStation 2;PS2;1;6
+9;PlayStation 3;PS3;1;7
+19;Super Nintendo Entertainment System (SNES);SNES;1;4
+25;Amstrad CPC;ACPC;6;
+27;MSX;MSX;6;
+39;iOS;iOS;4;
+75;Apple II;Apple][;6;
+80;Neo Geo AES;neogeoaes;1;4
+94;Commodore Plus/4;C+4;6;
+96;PDP-10;pdp10;6;
+237;Sol-20;;6;
+129;Texas Instruments TI-99;ti-99;6;
+133;Philips Videopac G7000;;6;
+134;Acorn Electron;;6;
+238;DVD Player;;1;
+203;Stadia;;;
+170;Google Stadia;Stadia;3;
+51;Family Computer Disk System;fds;1;3
+120;Neo Geo Pocket Color;;5;5
+165;PlayStation VR;PlayStation VR;;
+67;Intellivision;intellivision;1;2
+136;Neo Geo CD;;1;4
+71;Commodore VIC-20;vic-20;6;
+142;PC-50X Family;;1;1
+144;AY-3-8710;;1;
+146;AY-3-8605;;1;
+88;Odyssey;odyssey;1;1
+90;Commodore PET;cpet;6;
+147;AY-3-8606;;1;
+91;Bally Astrocade;astrocade;;
+11;Xbox;XBOX;1;6
+12;Xbox 360;X360;1;7
+164;Daydream;;;
+48;PlayStation 4;PS4;1;8
+97;PDP-8;pdp-8;6;
+115;Apple IIGS;;6;
+118;FM Towns;;6;
+126;TRS-80;;6;
+128;PC Engine SuperGrafx;supergrafx;6;
+135;Hyper Neo Geo 64;;2;
+98;DEC GT40;gt40;;
+105;HP 3000;hp3000;6;
+4;Nintendo 64;N64;1;5
+36;Xbox Live Arcade;xla;3;
+45;PlayStation Network;psn;3;
+46;PlayStation Vita;Vita;5;8
+47;Virtual Console (Nintendo);VC;3;
+53;MSX2;MSX2;6;
+56;WiiWare;WiiWare;;
+57;WonderSwan;WonderSwan;5;5
+60;Atari 7800;Atari7800;1;3
+62;Atari Jaguar;Jaguar;1;5
+65;Atari 8-bit;Atari8bit;6;
+66;Atari 5200;Atari5200;1;2
+124;SwanCrystal;;5;
+127;Fairchild Channel F;;1;2
+131;Nintendo PlayStation;;6;
+148;AY-3-8607;;1;
+149;PC-98;;6;
+14;Mac;Mac;4;
+158;Commodore CDTV;;6;
+15;Commodore C64/128;C64;6;
+34;Android;Android;4;
+35;Sega Game Gear;Game Gear;5;4
+87;Virtual Boy;virtualboy;1;5
+92;SteamOS;steam;4;
+159;Nintendo DSi;;5;7
+50;3DO Interactive Multiplayer;3DO;1;5
+119;Neo Geo Pocket;;5;5
+52;Arcade;Arcade;;
+55;Mobile;Mobile;;
+58;Super Famicom;SFAM;1;4
+5;Wii;Wii;1;7
+69;BBC Microcomputer System;bbcmicro;6;
+70;Vectrex;vectrex;1;2
+89;Microvision;microvision;5;2
+95;PDP-1;pdp1;6;
+108;PDP-11;pdp11;6;
+112;Microcomputer;microcomputer;;
+22;Game Boy Color;GBC;5;5
+23;Dreamcast;DC;1;6
+26;ZX Spectrum;ZXS;6;
+33;Game Boy;Game Boy;5;4
+13;PC DOS;DOS;4;
+38;PlayStation Portable;PSP;5;7
+24;Game Boy Advance;GBA;5;6
+41;Wii U;WiiU;1;8
+42;N-Gage;NGage;5;6
+125;PC-8801;;6;
+138;VC 4000;;1;2
+150;Turbografx-16/PC Engine CD;;6;
+155;Tatung Einstein;;6;
+166;Pokémon mini;;5;
+30;Sega 32X;Sega32;1;4
+137;New Nintendo 3DS;;5;8
+37;Nintendo 3DS;3DS;5;8
+84;SG-1000;sg1000;1;3
+130;Nintendo Switch;Switch;1;8
+85;Donner Model 30;donner30;6;
+132;Amazon Fire TV;;3;
+139;1292 Advanced Programmable Video System;;1;2
+140;AY-3-8500;;6;
+152;FM-7;;6;
+153;Dragon 32/64;;6;
+154;Amstrad PCW;;6;
+101;Ferranti Nimrod Computer;nimrod;6;
+161;Windows Mixed Reality;;;
+106;SDS Sigma 7;sdssigma7;6;
+109;CDC Cyber 70;cdccyber70;6;
+143;AY-3-8760;;1;
+49;Xbox One;XONE;1;8
+78;Sega CD;segacd;1;4
+16;Amiga;Amiga;6;
+82;Web browser;browser;3;
+114;Amiga CD32;;1;
+116;Acorn Archimedes;;6;
+29;Sega Mega Drive/Genesis;Genesis;1;4
+145;AY-3-8603;;1;
+151;TRS-80 Color Computer;;6;
+167;PlayStation 5;;1;
+122;Nuon;;1;
+77;Sharp X1;x1;6;
+79;Neo Geo MVS;neogeomvs;2;
+93;Commodore 16;C16;6;
+99;Family Computer (FAMICOM);famicom;1;3
+100;Analogue electronics;analogueelectronics;;
+102;EDSAC;edsac;6;
+103;PDP-7;pdp-7;;
+104;HP 2100;hp2100;6;
+107;Call-A-Computer time-shared mainframe computer system;call-a-computer;6;
+110;PLATO;plato;6;
+18;Nintendo Entertainment System (NES);NES;1;3
+32;Sega Saturn;Saturn;1;5
+59;Atari 2600;Atari2600;1;2
+64;Sega Master System;SMS;1;3
+72;Ouya;Ouya;1;8
+113;OnLive Game System;;3;
+117;Philips CD-i;;1;
+121;Sharp X68000;;6;
+141;AY-3-8610;;6;
+157;NEC PC-6000 Series;;6;
+162;Oculus VR;Oculus VR;;
+21;Nintendo GameCube;NGC;1;6
+20;Nintendo DS;NDS;5;7
+61;Atari Lynx;Lynx;5;4
+63;Atari ST/STE;Atari-ST;6;
+73;BlackBerry OS;blackberry;4;
+86;TurboGrafx-16/PC Engine;turbografx16;1;4
+111;Imlac PDS-1;imlac-pds1;;
