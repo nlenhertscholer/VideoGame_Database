@@ -9,7 +9,7 @@ DEBUG = False
 GENERATE_CSV = True
 DELIM = ';'
 
-api_key = {'user-key': 'edf32f70e1ce7aedca3746ff47475e33'}
+api_key = {'user-key': "private key from igdb"}
 url = 'https://api-v3.igdb.com/'
 
 
