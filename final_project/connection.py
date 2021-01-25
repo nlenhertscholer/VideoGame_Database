@@ -1,7 +1,7 @@
-url = "mpcs53001-3-pub.cs.uchicago.edu"
+url = ""
 
-database = "nlenhertscholer"
+database = ""
 
-user = "nlenhertscholer"
+user = ""
 
-password = "nscholerdb"
+password = ""
